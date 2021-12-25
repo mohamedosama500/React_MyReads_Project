@@ -11,6 +11,8 @@ Installation:
 2) Change directories [$ cd React_MyReads_Project].
 
 3) Use NPM to install the dependencies [$ npm install].
+
+4) Building using [npm run build or yarn build].
  
 
 Launching the project:
