@@ -1,0 +1,27 @@
+MyReads
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+It is an app that you can  place books in one of three shelves [ Currently Reading, Want to Read, Read ], and makes you search for books based on title and author.
+
+
+Installation:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1) Clone the repository [$ git clone https://github.com/mohamedosama500/React_MyReads_Project.git].
+
+2) $ git checkout main [to change branch from master to main]
+
+2) Change directories [$ cd MyReads_Project].
+
+3) Use NPM to install the dependencies [$ npm install].
+
+4) Building using [npm run build or yarn build].
+ 
+
+Launching the project:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1) Running the project with command [npm start].
+
+2) View the project in the browser at http://localhost:3000.
+
+
+
